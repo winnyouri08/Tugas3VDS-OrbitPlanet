@@ -8,7 +8,7 @@ let destabilise = 0.15
 
 function preload(){
   sun_ = loadImage("smilesun.png")
-  earth_ = loadImage("earth.jpg")
+  earth_ = loadImage("earth.png")
   mars_ = loadImage("mars.png")
   jupyter_ = loadImage("jupyter.png")
   neptunus_= loadImage("neptunus.png")
